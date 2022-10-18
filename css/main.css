@@ -1,7 +1,7 @@
 body{
     font-family: 'late', Arial;
     color: #434a4b;
-    background: linear-gradient(#a7bed3, #f1ffc4);
+    background: linear-gradient(to right, #cae5fd, #dbe5b8);
 }
 .column {
   float: left;
